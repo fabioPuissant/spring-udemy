@@ -1,4 +1,6 @@
-package com.luv2code.springdemo;
+package com.luv2code.springdemo.coaches;
+
+import com.luv2code.springdemo.services.FortuneService;
 
 public class TrackCoach implements Coach {
     final private FortuneService fortuneService;

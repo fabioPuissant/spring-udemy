@@ -1,0 +1,71 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-webflux-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-expression-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-aop-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-webmvc-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-jcl-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-jms-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-oxm-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-websocket-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-jms-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-context-indexer-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-jcl-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-beans-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-instrument-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-context-indexer-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-context-support-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-tx-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-oxm-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-oxm-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-context-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-orm-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-websocket-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-context-indexer-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-web-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-beans-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-test-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-context-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-aop-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-beans-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-aspects-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-websocket-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-core-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-aop-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-aspects-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-tx-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-context-support-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-orm-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-context-support-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-tx-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-context-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-webmvc-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-web-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-expression-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-webflux-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-test-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-webflux-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-instrument-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-messaging-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-aspects-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-test-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-instrument-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-jcl-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-jdbc-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-core-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-jms-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-jdbc-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-orm-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-webmvc-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-web-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-messaging-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-core-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-messaging-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-jdbc-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/first-project-course/lib/spring-expression-5.2.6.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

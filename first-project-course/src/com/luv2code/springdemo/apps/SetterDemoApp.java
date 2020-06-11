@@ -1,8 +1,7 @@
-package com.luv2code.springdemo;
+package com.luv2code.springdemo.apps;
 
+import com.luv2code.springdemo.coaches.CricketCoach;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-
-import javax.sound.midi.Soundbank;
 
 public class SetterDemoApp {
     public static void main(String[] args) {
